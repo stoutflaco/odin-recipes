@@ -10,6 +10,12 @@ body{
     background-color: #FDFBD4;
 }
 
+.homepagesection {
+    list-style-position: inside;
+    text-align: center;
+
+}
+
 h1,h2,h3{
     color: #38240D;
      text-align: center;
