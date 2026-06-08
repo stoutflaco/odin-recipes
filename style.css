@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #FDFBD4;
+}
+
+h1,h2,h3{
+    color: #38240D;
+     text-align: center;
+}
+
+.pizzabutton,
+.chocobutton,
+.lasagnabutton,
+.homebutton{
+    background-color: #38240D;
+    color: #FDFBD4;
+    margin: 3px auto;
+}
+
+.homebutton{
+    display: block;
+    margin-left: auto;
+}
+
+.recipetitle{
+    text-align: center;
+
+}
+
+
+.chocoimage,
+.pizzaimg,
+.lasangaimg{
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+
