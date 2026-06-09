@@ -13,6 +13,7 @@ body{
 .homepagesection {
     list-style-position: inside;
     text-align: center;
+    list-style: none;
 
 }
 
@@ -33,6 +34,8 @@ h1,h2,h3{
 .homebutton{
     display: block;
     margin-left: auto;
+    text-decoration: none;
+    
 }
 
 .recipetitle{
@@ -48,6 +51,10 @@ h1,h2,h3{
     width: 400px;
     height: auto;
     margin: auto;
+}
+
+a{
+    text-decoration: none;
 }
 
 
